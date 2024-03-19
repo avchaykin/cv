@@ -1,11 +1,9 @@
 # Alexander Chaykin
 
-##### Architecte logiciel et chef de produit technologique
+**Architecte logiciel et chef de produit technologique**
 
-Lille, France
-
-**E-mail:** alexander.tchaikin@gmail.com
-
+Lille, France  
+**E-mail:** alexander.tchaikin@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/alexandertchaikin/
 
 ### PROFIL
@@ -145,9 +143,9 @@ Un certain nombre de projets développés et mis en œuvre avec succès, nota
 
 ### **INFORMATIONS PERSONNELLES**
 
-**Date de naissance :** 27/11/1982
-**Nationalité :** Russe
-**Langues :** Russe, Anglais (Upper-intermediate), Français (B1)
-**Etat civil :** marié
+**Date de naissance :** 27/11/1982  
+**Nationalité :** Russe  
+**Langues :** Russe, Anglais (Upper-intermediate), Français (B1)  
+**Etat civil :** marié  
 
 **Loisirs :** ingénierie logicielle et matérielle, analyse des données, musique, bricolage
