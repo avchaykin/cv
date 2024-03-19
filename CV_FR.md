@@ -3,8 +3,9 @@
 ##### Architecte logiciel et chef de produit technologique
 
 Lille, France
-**Tél:** 06 09 42 99 87
-**E-mail:** alexander@chaykin.me
+
+**E-mail:** alexander.tchaikin@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/alexandertchaikin/
 
 ### PROFIL
