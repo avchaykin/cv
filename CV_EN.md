@@ -1,13 +1,6 @@
 # Alexander Chaykin
 
-**Phone:** +33 6 09 42 99 87
-**E-mail:** alexander.tchaikin@gmail.com
-**Telegram:** @avchaykin
-
-### Profile
-
-
-
-### Work Experience
-
-**03/2018 — present** LEROY MERLIN VOSTOK (Retail, DIY). Product owner / technical architect. Moscow, Russia.
+Lille, France  
+**E-mail:** alexander.tchaikin@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/alexandertchaikin/  
+**Telegram:** [@avchaykin](https://t.me/avchaykin)
