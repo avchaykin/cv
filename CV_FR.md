@@ -1,21 +1,21 @@
 # Alexander Chaykin
 
-**Architecte logiciel et chef de produit technologique**
+##### Architecte logiciel et chef de produit technologique
 
-Lille, France  
-**E-mail:** alexander.tchaikin@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/alexandertchaikin/  
-**Telegram:** [@avchaykin](https://t.me/avchaykin)
+Lille, France
+**Tél:** 06 09 42 99 87
+**E-mail:** alexander@chaykin.me
+**LinkedIn:** https://www.linkedin.com/in/alexandertchaikin/
 
 ### PROFIL
 
-Conception et développement de produits basés sur des microservices et des applications monolithiques, liés à la fourniture d'interfaces utilisateur, de services technologiques, d'accès aux données, de stockage et de traitement des données, de gestion des accès et de la sécurité.
+Expérimenté dans la conception et le développement de produits utilisant des architectures microservices et monolithiques. Compétent dans la fourniture d'interfaces utilisateur, de services technologiques, d'accès aux données, de stockage et de traitement des données, de gestion des accès et de sécurité.
 
-Gestion du cycle complet de création d'un produit, y compris sa conception, son développement, son intégration avec des systèmes connexes, l'organisation du support et son évolution, en utilisant l'approche Agile (Scrum, Kanban). Travail sur la motivation au sein de l'équipe, choix d'une approche efficace pour le travail d'équipe. Définition, synchronisation et suivi des objectifs et des résultats clés en utilisant les méthodologies OKR et KPI.
+Compétences en gestion de l'ensemble du cycle de vie du produit, de la conception initiale et du développement à l'intégration des systèmes, à l'organisation du support et à l'évolution continue, en utilisant les méthodologies Agile (Scrum, Kanban). Capable de motiver les équipes, de sélectionner des approches de travail en équipe efficaces et de définir, synchroniser et surveiller les objectifs et les résultats clés en utilisant les méthodologies OKR et KPI.
 
-Collecte, analyse et migration de données (y compris de BigData), présentation et prise de décisions basée sur les données. Développement d'outils et de scripts pour l'automatisation du travail quotidien et l'analyse des données (en utilisant Python, R et d'autres langages de programmation).
+Expert en collecte, analyse et migration de données, y compris les Big Data. Compétent dans la présentation des données et la prise de décisions basées sur les données. Expérience dans le développement d'outils et de scripts pour automatiser les tâches quotidiennes et l'analyse des données en utilisant Python, R et d'autres langages de programmation.
 
-Interaction avec les partenaires. Sélection de solutions externes, conduite de négociations, conclusion de contrats.
+Expérience dans l'interaction avec les partenaires, la sélection de solutions externes, la conduite de négociations et la conclusion de contrats.
 
 ### EXPÉRIENCE PROFESSIONNELLE
 
@@ -144,9 +144,9 @@ Un certain nombre de projets développés et mis en œuvre avec succès, nota
 
 ### **INFORMATIONS PERSONNELLES**
 
-**Date de naissance :** 27/11/1982  
-**Nationalité :** Russe  
-**Langues :** Russe, Anglais (Upper-intermediate), Français (B1)  
-**Etat civil :** marié  
+**Date de naissance :** 27/11/1982
+**Nationalité :** Russe
+**Langues :** Russe, Anglais (Upper-intermediate), Français (B1)
+**Etat civil :** marié
 
 **Loisirs :** ingénierie logicielle et matérielle, analyse des données, musique, bricolage
