@@ -9,13 +9,13 @@ Lille, France
 
 ### Profile
 
-Design and development of products based on microservices and monolithic applications, related to providing user interfaces, technological services, data access, data storage and processing, access management, and security.
+Experienced in designing and developing products using both microservices and monolithic architectures. Proficient in providing user interfaces, technological services, data access, data storage, processing, access management, and security.
 
-Management of the complete product creation cycle, including its design, development, integration with related systems, support organization, and evolution, using the Agile approach (Scrum, Kanban). Work on team motivation, selecting an effective approach for teamwork. Definition, synchronization, and monitoring of objectives and key results using OKR and KPI methodologies.
+Skilled in managing the entire product lifecycle, from initial design and development to system integration, support organization, and continuous evolution, utilizing Agile methodologies (Scrum, Kanban). Adept at motivating teams, selecting effective teamwork approaches, and defining, synchronizing, and monitoring objectives and key results using OKR and KPI methodologies.
 
-Data collection, analysis, and migration (including BigData), presentation and data-driven decision making. Development of tools and scripts for automating daily tasks and data analysis (using Python, R, and other programming languages).
+Expert in data collection, analysis, and migration, including Big Data. Proficient in presenting data and making data-driven decisions. Experienced in developing tools and scripts to automate daily tasks and data analysis using Python, R, and other programming languages.
 
-Interaction with partners. Selection of external solutions, conducting negotiations, and concluding contracts.
+Experienced in interacting with partners, selecting external solutions, conducting negotiations, and concluding contracts.
 
 ### Work Experience
 
