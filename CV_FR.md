@@ -9,13 +9,13 @@ Lille, France
 
 ### PROFIL
 
-Expérimenté dans la conception et le développement de produits utilisant des architectures microservices et monolithiques. Compétent dans la fourniture d'interfaces utilisateur, de services technologiques, d'accès aux données, de stockage et de traitement des données, de gestion des accès et de sécurité.
+Expérimenté dans la conception et le développement de produits utilisant des architectures **microservices** et **monolithiques**. Compétent dans la fourniture **d'interfaces utilisateur**, **de services technologiques**, **d'accès aux données**, **de stockage et de traitement des données**, **de gestion des accès** et **de sécurité**.
 
-Compétences en gestion de l'ensemble du cycle de vie du produit, de la conception initiale et du développement à l'intégration des systèmes, à l'organisation du support et à l'évolution continue, en utilisant les méthodologies Agile (Scrum, Kanban). Capable de motiver les équipes, de sélectionner des approches de travail en équipe efficaces et de définir, synchroniser et surveiller les objectifs et les résultats clés en utilisant les méthodologies OKR et KPI.
+Compétences en gestion de l'ensemble du cycle de vie du produit, de la conception initiale et du développement à l'intégration des systèmes, à l'organisation du support et à l'évolution continue, en utilisant les méthodologies **Agile (Scrum, Kanban)**. Capable de motiver les équipes, de sélectionner des approches de travail en équipe efficaces et de définir, synchroniser et surveiller les objectifs et les résultats clés en utilisant les méthodologies **OKR** et **KPI**.
 
-Expert en collecte, analyse et migration de données, y compris les Big Data. Compétent dans la présentation des données et la prise de décisions basées sur les données. Expérience dans le développement d'outils et de scripts pour automatiser les tâches quotidiennes et l'analyse des données en utilisant Python, R et d'autres langages de programmation.
+Expert en collecte, analyse et migration de données, y compris les **Big Data**. Compétent dans la présentation des données et la prise de décisions basées sur les données. Expérience dans le développement d'outils et de scripts pour automatiser les tâches quotidiennes et l'analyse des données en utilisant **Python, R** et d'autres langages de programmation.
 
-Expérience dans l'interaction avec les partenaires, la sélection de solutions externes, la conduite de négociations et la conclusion de contrats.
+Expérience dans **l'interaction avec les partenaires**, la sélection de solutions externes, la conduite de négociations et la conclusion de contrats.
 
 ### EXPÉRIENCE PROFESSIONNELLE
 
@@ -27,7 +27,7 @@ Domaine technologique, l'équipe de gestion de l'accès aux TI.
 
 Développement et migration de l'architecture en faveur d'une solution unifiée d'authentification et d'autorisation pour les clients, les employés et les partenaires.
 
-- Développement de l'architecture des systèmes d'authentification des clients (B2C et B2B), des employés et des partenaires, développés sur la base de solutions open-source.
+- Développement de l'architecture des systèmes d'authentification des clients (B2C et B2B), des employés et des partenaires, développés sur la base de solutions open-source. Conception du front-end et du back-end.
 
 - Migration des solutions d'authentification et d'autorisation d'entreprise vers des logiciels open-source.
 - Analyse des données des clients et des événements du système pour la préparation du profil de charge.
@@ -46,7 +46,7 @@ Conception et développement de produits liés à l'expérience et aux données 
 - Collecte, analyse et traitement des données pour le suivi des déplacements des clients dans les espaces commerciaux (footfall tracking).
 - Système de vidéosurveillance dans les magasins pour les clients pendant la COVID-19.
 
-**Points forts technologiques et compétences :** Architecture microservices, divers paradigmes architecturaux de conception de systèmes (EDA, DDD), organisation du travail et outils de gestion des tâches (Agile, Scrum, Kanban, JIRA, Confluence, Miro), conception d'API (REST, HTTPS) et API Management (Apigee, Kong), Postman, systèmes de gestion de bases de données (PostgreSQL, Greenplum, MongoDB, Redis, Patroni, MSSQL, Oracle, sqlite, BigQuery), agents de messages (RabbitMQ, Kafka), infrastructure de déploiement des systèmes et services (Nginx, HAProxy), Python (y compris les outils de manipulation de données tels que Pandas, NumPy, SciPy).
+**Points forts technologiques et compétences :** Architecture microservices, divers paradigmes architecturaux de conception de systèmes (**EDA**, **DDD**), organisation du travail et outils de gestion des tâches (**Agile**, **Scrum**, **Kanban**, **JIRA**, **Confluence**, **Miro**), conception d'API (**REST**, **HTTPS**) et API Management (**Apigee**, **Kong**), conception de systèmes avec front-end (**ReactJS, Vue, Angular**), conception de systèmes back-end (**Java**, **NodeJS**), Postman, systèmes de gestion de bases de données (**PostgreSQL**, **Greenplum**, **MongoDB**, **Redis**, **Patroni**, **MSSQL**, **Oracle**, **sqlite**, **BigQuery**), agents de messages (**RabbitMQ**, **Kafka**), infrastructure de déploiement des systèmes et services (**Nginx**, **HAProxy**), **Python** (y compris les outils de manipulation de données tels que **Pandas**, **NumPy**, **SciPy**).
 
 ------
 
@@ -73,7 +73,7 @@ Un certain nombre de projets développés et mis en œuvre avec succès, nota
 - Développement de logiciels (Java, IBM RAD) et gestion du développement.
 - Gestion et soutien occasionnels des versions de logiciels.
 
-**Points forts technologiques et compétences :** Conception de l'architecture des systèmes (UML, ERD), intégration (WS, SOAP), rédaction de scénarios d'interaction (UseCases), développement de logiciels applicatifs (C, C++, Java, Perl), collecte, analyse et traitement des données (Python, R), technologies et outils pour travailler avec de BigData (Hadoop, HDFS, YARN, HBase, MapReduce, Hive, Spark, Aerospike), technologies de télécommunication (SS7, ITAN, OSA/Parlay, PSI, GSM, GPRS, LTE), méthodologies de développement rapide (Agile, Scrum)
+**Points forts technologiques et compétences :** Conception de l'architecture des systèmes (**UML**, **ERD**), intégration (**WS**, **SOAP**), rédaction de scénarios d'interaction (**UseCases**), développement de logiciels applicatifs (**C, C++, Java, Perl**), collecte, analyse et traitement des données (**Python, R**), conception et développement de systèmes front-end (**Vue**), machine learning (**TensorFlow**), conception de systèmes back-end (**Java**, **NodeJS**), système d'orchestration (**Camunda**), technologies et outils pour travailler avec de BigData (**Hadoop, HDFS, YARN, HBase, MapReduce, Hive, Spark, Aerospike**), technologies de télécommunication (**SS7, ITAN, OSA/Parlay, PSI, GSM, GPRS, LTE**), méthodologies de développement rapide (**Agile, Scrum**)
 
 ---
 
@@ -87,7 +87,7 @@ Un certain nombre de projets développés et mis en œuvre avec succès, nota
 - Préparation des spécifications des exigences fonctionnelles et non fonctionnelles et des documents d'appel d'offres.
 - Supervision du déploiement du centre de données.
 
-**Points forts technologiques et compétences :** Gestion de projet selon la méthodologie en cascade, travail avec les autorités gouvernementales, gestion de la documentation
+**Points forts technologiques et compétences :** Gestion de projet selon la méthodologie en cascade, travail avec les autorités gouvernementales, gestion de la documentation.
 
 ------
 
@@ -144,9 +144,5 @@ Un certain nombre de projets développés et mis en œuvre avec succès, nota
 
 ### **INFORMATIONS PERSONNELLES**
 
-**Date de naissance :** 27/11/1982
-**Nationalité :** Russe
-**Langues :** Russe, Anglais (Upper-intermediate), Français (B1)
-**Etat civil :** marié
-
-**Loisirs :** ingénierie logicielle et matérielle, analyse des données, musique, bricolage
+**Langues :** Français (Opérationnel, B2), Anglais (Opérationnel, C1), Russe (Langue Maternelle)
+**Loisirs :** Développement d'applications, domotique, analyse de données, applications d'IA, projets DIY, musique, voyages
